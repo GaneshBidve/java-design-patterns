@@ -8,9 +8,17 @@ Playing around with design patterns in Java.
 * Builder
 * Prototype
 * Factory
-* AbstractFactory
+
+## Structural
+
+* Adapter
+* Bridge
+* Composite
+* Decorator
+* Facade
+* Flyweight
+* Proxy
 
 ## Behavioral
 
-## Structural
 
