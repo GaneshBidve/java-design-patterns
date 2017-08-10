@@ -3,9 +3,6 @@ package com.gregdferrell.designpatterns.bridge;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Greg on 8/1/2017.
- */
 public class MoviePrinter extends Printer {
 
     private Movie movie;

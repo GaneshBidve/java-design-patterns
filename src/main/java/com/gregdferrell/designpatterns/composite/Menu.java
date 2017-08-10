@@ -1,8 +1,5 @@
 package com.gregdferrell.designpatterns.composite;
 
-/**
- * Created by Greg on 8/1/2017.
- */
 public class Menu extends MenuComponent {
 
     public Menu(String name, String url) {

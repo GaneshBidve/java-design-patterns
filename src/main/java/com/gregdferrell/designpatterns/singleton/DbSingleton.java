@@ -5,9 +5,6 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.sql.Statement;
 
-/**
- * Created by Greg on 7/9/2017.
- */
 public class DbSingleton {
 
     // Lazy load singleton

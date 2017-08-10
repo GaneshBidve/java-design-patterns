@@ -1,8 +1,5 @@
 package com.gregdferrell.designpatterns.bridge;
 
-/**
- * Created by Greg on 8/1/2017.
- */
 public class BridgeDemo {
 
     public static void main(String[] args) {
