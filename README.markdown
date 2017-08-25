@@ -46,4 +46,4 @@ https://app.pluralsight.com/library/courses/design-patterns-java-creational/tabl
 * Template
     * Define an algorithm that allows subclasses to redefine parts of the algorithm without changing its structure.
 * Visitor
-    * A great way to separate an algorithm from an object structure.
+    * Separates an algorithm from an object structure.
