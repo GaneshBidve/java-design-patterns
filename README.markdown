@@ -7,10 +7,10 @@ https://app.pluralsight.com/library/courses/design-patterns-java-creational/tabl
 
 ## Creational
 
-* Singleton
 * Builder
-* Prototype
 * Factory
+* Prototype
+* Singleton
 
 ## Structural
 
@@ -18,12 +18,12 @@ https://app.pluralsight.com/library/courses/design-patterns-java-creational/tabl
 * Bridge
 * Composite
 * Decorator
-* Facade
 * Flyweight
 * Proxy
 
 ## Behavioral
 
+* Interpreter
 * Mediator
 * Memento
 * Observer
